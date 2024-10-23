@@ -1,0 +1,132 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body {
+    background-image: url(railway1.png);
+    background-size: cover;
+
+}
+
+.navbar {
+    height: 190px;
+    width: auto;
+    display: flex;
+
+}
+
+.navhome {
+    margin-left: 100px;
+    margin-top: 25px;
+    font-family: Arial;
+    font-weight: 700;
+    height: 10px;
+    background-color: rgb(217, 119, 22);
+    padding: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 14%;
+    width: auto;
+    color: black;
+}
+
+.login {
+    margin-left: 100px;
+    margin-top: 25px;
+    font-family: Arial;
+    font-weight: 700;
+    height: 10px;
+    background-color: rgb(217, 119, 22);
+
+    padding: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 14%;
+    width: auto;
+    color: black;
+}
+
+.aboutus {
+    margin-left: 100px;
+    margin-top: 25px;
+    font-family: Arial;
+    font-weight: 700;
+    height: 10px;
+    width: auto;
+    background-color: rgb(217, 119, 22);
+    padding: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 14%;
+    width: auto;
+    color: black;
+}
+
+a {
+    color: black;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    color: black;
+    font-weight: bolder;
+}
+
+.title h1 {
+    font-family: Helvetica;
+    color: darkblue;
+    margin-bottom: 15px;
+}
+
+.sign-up {
+    margin-left: 100px;
+    margin-top: 25px;
+    font-family: Arial;
+    font-weight: 700;
+    height: 10px;
+    background-color: rgb(217, 119, 22);
+
+    padding: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 14%;
+    width: auto;
+    color: black;
+}
+
+.title {
+    font-family: Helvetica;
+    color: darkblue;
+    display: flex;
+    height: 50px;
+    width: 100%;
+    border-bottom: 1px solid black;
+}
+
+.qrmessage {
+    margin-left: 50px;
+    margin-top: 25px;
+    font-family: Arial;
+    font-weight: 700;
+    height: 40px;
+    background-color: rgb(217, 119, 22);
+    flex-direction: column;
+    padding: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: auto;
+    color: black;
+
+}
